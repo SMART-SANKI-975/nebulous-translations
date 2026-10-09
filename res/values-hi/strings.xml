@@ -243,7 +243,7 @@
 
     <string name="You_must_wait_until_the_end_of_the_round_">"तुम दौर के अंत तक इंतजार करना चाहिए"</string>
     <string name="Dont_show_again">"फिर से दिखाने के लिए नहीं"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"मिला एक एकल खिलाड़ी उच्च XP के साथ बैकअप आँकड़े। आप बैकअप बहाल करने के लिए करना चाहते हैं?"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"मिला एक एकल खिलाड़ी उच्च एक्सपी के साथ बैकअप आँकड़े। आप बैकअप बहाल करने के लिए करना चाहते हैं?"</string>
 
     <string name="Special_Effects">"विशेष प्रभाव"</string>
     <string name="Blob_Mushiness">"बूँद नरमपन"</string>
